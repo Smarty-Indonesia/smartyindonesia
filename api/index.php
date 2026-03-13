@@ -16,7 +16,7 @@
           <p class="mb-3"><strong>Belanja terus - untung terus</strong></p>
           
           <div class="intro-button mx-auto">
-            <a class="btn btn-primary btn-xl" href="location.php">Kunjungi Kami Sekarang!</a>
+            <a class="btn btn-primary btn-xl" href="/location">Kunjungi Kami Sekarang!</a>
           </div>
         </div>
       </div>

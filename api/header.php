@@ -13,18 +13,18 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="/index.php">Home
+            <a class="nav-link text-uppercase text-expanded" href="/">Home
               <!--<span class="sr-only">(current)</span>-->
             </a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="/about.php">About</a>
+            <a class="nav-link text-uppercase text-expanded" href="/about">About</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="/products.php">Products</a>
+            <a class="nav-link text-uppercase text-expanded" href="/products">Products</a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="/location.php">Lokasi</a>
+            <a class="nav-link text-uppercase text-expanded" href="/location">Lokasi</a>
           </li>
         </ul>
       </div>
