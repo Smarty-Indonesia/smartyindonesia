@@ -19,7 +19,7 @@
                   Mart Pusat, Bogor, JABAR
                   <span class="ml-auto"><a href="https://goo.gl/maps/WRk95hxS3ZzkM3uC6" target="_blank">Lokasi</a></span>
                 </li>
-                <!--
+                
                 <li class="list-unstyled-item list-hours-item d-flex">
                   Warung Pamoyanan, Bogor, JABAR
                   <span class="ml-auto"><a href="https://goo.gl/maps/g8cVNcSGUYbsW8UN9" target="_blank">Lokasi</a></span>
@@ -33,17 +33,17 @@
                   Mart Tg Priok, Jakarta
                   <span class="ml-auto"><a href="https://goo.gl/maps/RqVibhN78z12hc978" target="_blank">Lokasi</a></span>
                 </li>
-                -->
+               
                 <li class="list-unstyled-item list-hours-item d-flex">
                   Mart Cilincing, Jakarta
                   <span class="ml-auto"><a href="https://goo.gl/maps/zQcQTC2XKnNYuopx6" target="_blank">Lokasi</a></span>
                 </li>
-                <!--
+                
                 <li class="list-unstyled-item list-hours-item d-flex">
                   Mart Karawang, JABAR
                   <span class="ml-auto"><a href="https://goo.gl/maps/o416gLJ2wa1bEkD38" target="_blank">Lokasi</a></span>
                 </li>
-                -->
+               
               </ul>
               <p class="address mb-5">
                 <em>
@@ -67,7 +67,7 @@
 
     <section class="page-section about-heading">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="img/store.jpg" alt="">
+        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../img/store.jpg" alt="">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
